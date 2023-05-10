@@ -1,0 +1,12 @@
+.user {
+    color=#20CD8D;
+
+}
+.triangle {
+    width: 96.5px;
+    height: 250.5px;
+    border-left: 277px solid transparent;
+    border-right: 452.5px solid transparent;
+    border-bottom: 100px solid blue;
+  }
+  
